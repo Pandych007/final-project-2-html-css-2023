@@ -38,7 +38,7 @@ body {
   justify-content: center;
   align-items: center;
   color: #fff;
-  background-image: url('../img/hero.jpeg');
+  background-image: url('./img/hero.jpeg');
   background-attachment: fixed;
   width: 1295px;
   height: 1000px;
